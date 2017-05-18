@@ -1,0 +1,206 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.9~svn20110310	//
+BUFSIZE	/home/john/Documents/CCode/KRProblems/kr4-3.c	151;"	d	file:
+BUFSIZE	/home/john/Documents/CCode/KRProblems/kr4-4.c	152;"	d	file:
+BUFSIZE	/home/john/Documents/CCode/KRProblems/kr4-5.c	246;"	d	file:
+BUFSIZE	/home/john/Documents/CCode/KRProblems/kr4-6.c	279;"	d	file:
+BUFSIZE	/home/john/Documents/CCode/KRProblems/kr4-7.c	280;"	d	file:
+BUFSIZE	/home/john/Documents/CCode/KRProblems/kr4-9.c	279;"	d	file:
+COMMAND	/home/john/Documents/CCode/KRProblems/kr4-5.c	8;"	d	file:
+COMMAND	/home/john/Documents/CCode/KRProblems/kr4-6.c	9;"	d	file:
+COMMAND	/home/john/Documents/CCode/KRProblems/kr4-7.c	9;"	d	file:
+COMMAND	/home/john/Documents/CCode/KRProblems/kr4-8.c	9;"	d	file:
+COMMAND	/home/john/Documents/CCode/KRProblems/kr4-9.c	9;"	d	file:
+MAX	/home/john/Documents/CCode/KRProblems/kr3-4.c	5;"	d	file:
+MAXOP	/home/john/Documents/CCode/KRProblems/kr4-3.c	4;"	d	file:
+MAXOP	/home/john/Documents/CCode/KRProblems/kr4-4.c	4;"	d	file:
+MAXOP	/home/john/Documents/CCode/KRProblems/kr4-5.c	6;"	d	file:
+MAXOP	/home/john/Documents/CCode/KRProblems/kr4-6.c	7;"	d	file:
+MAXOP	/home/john/Documents/CCode/KRProblems/kr4-8.c	7;"	d	file:
+MAXOP	/home/john/Documents/CCode/KRProblems/kr4-9.c	7;"	d	file:
+MAXVAL	/home/john/Documents/CCode/KRProblems/kr4-3.c	67;"	d	file:
+MAXVAL	/home/john/Documents/CCode/KRProblems/kr4-4.c	28;"	d	file:
+MAXVAL	/home/john/Documents/CCode/KRProblems/kr4-5.c	103;"	d	file:
+MAXVAL	/home/john/Documents/CCode/KRProblems/kr4-6.c	131;"	d	file:
+MAXVAL	/home/john/Documents/CCode/KRProblems/kr4-7.c	131;"	d	file:
+MAXVAL	/home/john/Documents/CCode/KRProblems/kr4-8.c	29;"	d	file:
+MAXVAL	/home/john/Documents/CCode/KRProblems/kr4-9.c	131;"	d	file:
+NUMBER	/home/john/Documents/CCode/KRProblems/kr4-3.c	5;"	d	file:
+NUMBER	/home/john/Documents/CCode/KRProblems/kr4-4.c	5;"	d	file:
+NUMBER	/home/john/Documents/CCode/KRProblems/kr4-5.c	7;"	d	file:
+NUMBER	/home/john/Documents/CCode/KRProblems/kr4-6.c	8;"	d	file:
+NUMBER	/home/john/Documents/CCode/KRProblems/kr4-7.c	8;"	d	file:
+NUMBER	/home/john/Documents/CCode/KRProblems/kr4-8.c	8;"	d	file:
+NUMBER	/home/john/Documents/CCode/KRProblems/kr4-9.c	8;"	d	file:
+Node	/home/john/Documents/CCode/LinkedList.h	/^} Node;$/;"	t	typeref:struct:node
+Node	/home/john/Documents/CCode/Queue.h	/^} Node;$/;"	t	typeref:struct:node
+Node	/home/john/Documents/CCode/Stack.h	/^} Node;$/;"	t	typeref:struct:node
+Queue	/home/john/Documents/CCode/Queue.h	/^} Queue;$/;"	t	typeref:struct:queue
+SIZE	/home/john/Documents/CCode/KRProblems/kr3-3.c	8;"	d	file:
+Stack	/home/john/Documents/CCode/Stack.h	/^} Stack;$/;"	t	typeref:struct:stack
+StackData	/home/john/Documents/CCode/KRProblems/kr3-3.c	/^} StackData;$/;"	t	typeref:struct:__anon1	file:
+VARIABLE	/home/john/Documents/CCode/KRProblems/kr4-6.c	10;"	d	file:
+VARIABLE	/home/john/Documents/CCode/KRProblems/kr4-7.c	10;"	d	file:
+VARIABLE	/home/john/Documents/CCode/KRProblems/kr4-8.c	10;"	d	file:
+VARIABLE	/home/john/Documents/CCode/KRProblems/kr4-9.c	10;"	d	file:
+assign	/home/john/Documents/CCode/KRProblems/kr4-6.c	/^void assign(char variable, double value)$/;"	f
+assign	/home/john/Documents/CCode/KRProblems/kr4-7.c	/^void assign(char variable, double value)$/;"	f
+assign	/home/john/Documents/CCode/KRProblems/kr4-8.c	/^void assign(char variable, double value)$/;"	f
+assign	/home/john/Documents/CCode/KRProblems/kr4-9.c	/^void assign(char variable, double value)$/;"	f
+assigned	/home/john/Documents/CCode/KRProblems/kr4-6.c	/^double assigned[26]; $/;"	v
+assigned	/home/john/Documents/CCode/KRProblems/kr4-7.c	/^double assigned[26]; $/;"	v
+assigned	/home/john/Documents/CCode/KRProblems/kr4-8.c	/^double assigned[26]; $/;"	v
+assigned	/home/john/Documents/CCode/KRProblems/kr4-9.c	/^double assigned[26]; $/;"	v
+buf	/home/john/Documents/CCode/KRProblems/kr4-3.c	/^char buf[BUFSIZE];$/;"	v
+buf	/home/john/Documents/CCode/KRProblems/kr4-4.c	/^char buf[BUFSIZE];$/;"	v
+buf	/home/john/Documents/CCode/KRProblems/kr4-5.c	/^char buf[BUFSIZE];$/;"	v
+buf	/home/john/Documents/CCode/KRProblems/kr4-6.c	/^char buf[BUFSIZE];$/;"	v
+buf	/home/john/Documents/CCode/KRProblems/kr4-7.c	/^char buf[BUFSIZE];$/;"	v
+buf	/home/john/Documents/CCode/KRProblems/kr4-8.c	/^int buf; $/;"	v
+buf	/home/john/Documents/CCode/KRProblems/kr4-9.c	/^int buf[BUFSIZE];$/;"	v
+bufUsed	/home/john/Documents/CCode/KRProblems/kr4-8.c	/^int bufUsed = 0;$/;"	v
+bufp	/home/john/Documents/CCode/KRProblems/kr4-3.c	/^int bufp = 0;$/;"	v
+bufp	/home/john/Documents/CCode/KRProblems/kr4-4.c	/^int bufp = 0;$/;"	v
+bufp	/home/john/Documents/CCode/KRProblems/kr4-5.c	/^int bufp = 0;$/;"	v
+bufp	/home/john/Documents/CCode/KRProblems/kr4-6.c	/^int bufp = 0;$/;"	v
+bufp	/home/john/Documents/CCode/KRProblems/kr4-7.c	/^int bufp = 0;$/;"	v
+bufp	/home/john/Documents/CCode/KRProblems/kr4-9.c	/^int bufp = 0;$/;"	v
+ch	/home/john/Documents/CCode/KRProblems/kr3-3.c	/^	char ch;$/;"	m	struct:__anon1	file:
+clearvars	/home/john/Documents/CCode/KRProblems/kr4-6.c	/^void clearvars(void)$/;"	f
+clearvars	/home/john/Documents/CCode/KRProblems/kr4-7.c	/^void clearvars(void)$/;"	f
+clearvars	/home/john/Documents/CCode/KRProblems/kr4-8.c	/^void clearvars(void)$/;"	f
+clearvars	/home/john/Documents/CCode/KRProblems/kr4-9.c	/^void clearvars(void)$/;"	f
+data	/home/john/Documents/CCode/LinkedList.h	/^	int data;$/;"	m	struct:node
+data	/home/john/Documents/CCode/Queue.h	/^	QueueData data;$/;"	m	struct:node
+data	/home/john/Documents/CCode/Stack.h	/^	StackData data;$/;"	m	struct:node
+dequeue	/home/john/Documents/CCode/Queue.h	/^QueueData dequeue(Queue* Q)$/;"	f
+duplicate	/home/john/Documents/CCode/KRProblems/kr4-4.c	/^void duplicate(void)$/;"	f
+duplicate	/home/john/Documents/CCode/KRProblems/kr4-5.c	/^void duplicate(void)$/;"	f
+duplicate	/home/john/Documents/CCode/KRProblems/kr4-6.c	/^void duplicate(void)$/;"	f
+duplicate	/home/john/Documents/CCode/KRProblems/kr4-7.c	/^void duplicate(void)$/;"	f
+duplicate	/home/john/Documents/CCode/KRProblems/kr4-8.c	/^void duplicate(void)$/;"	f
+duplicate	/home/john/Documents/CCode/KRProblems/kr4-9.c	/^void duplicate(void)$/;"	f
+empty	/home/john/Documents/CCode/KRProblems/kr4-6.c	/^int empty(void)$/;"	f
+empty	/home/john/Documents/CCode/KRProblems/kr4-7.c	/^int empty(void)$/;"	f
+empty	/home/john/Documents/CCode/KRProblems/kr4-8.c	/^int empty(void)$/;"	f
+empty	/home/john/Documents/CCode/KRProblems/kr4-9.c	/^int empty(void)$/;"	f
+empty	/home/john/Documents/CCode/Queue.h	/^int empty(Queue* Q)$/;"	f
+empty	/home/john/Documents/CCode/Stack.h	/^int empty(Stack* S)$/;"	f
+enqueue	/home/john/Documents/CCode/Queue.h	/^void enqueue(Queue* Q, QueueData d)$/;"	f
+expand	/home/john/Documents/CCode/KRProblems/kr3-3.c	/^void expand(char s1[], char s2[])$/;"	f
+getChar	/home/john/Documents/CCode/KRProblems/kr3-3.c	/^char getChar(StackData sd)$/;"	f
+getChar	/home/john/Documents/CCode/KRProblems/kr3-5.c	/^char getChar(int n)$/;"	f
+getSD	/home/john/Documents/CCode/KRProblems/kr3-3.c	/^StackData getSD(char c)$/;"	f
+getch	/home/john/Documents/CCode/KRProblems/kr4-3.c	/^int getch(void)$/;"	f
+getch	/home/john/Documents/CCode/KRProblems/kr4-4.c	/^int getch(void)$/;"	f
+getch	/home/john/Documents/CCode/KRProblems/kr4-5.c	/^int getch(void)$/;"	f
+getch	/home/john/Documents/CCode/KRProblems/kr4-6.c	/^int getch(void)$/;"	f
+getch	/home/john/Documents/CCode/KRProblems/kr4-7.c	/^int getch(void)$/;"	f
+getch	/home/john/Documents/CCode/KRProblems/kr4-8.c	/^int getch(void)$/;"	f
+getch	/home/john/Documents/CCode/KRProblems/kr4-9.c	/^int getch(void)$/;"	f
+getop	/home/john/Documents/CCode/KRProblems/kr4-3.c	/^int getop(char s[])$/;"	f
+getop	/home/john/Documents/CCode/KRProblems/kr4-4.c	/^int getop(char s[])$/;"	f
+getop	/home/john/Documents/CCode/KRProblems/kr4-5.c	/^int getop(char s[])$/;"	f
+getop	/home/john/Documents/CCode/KRProblems/kr4-6.c	/^int getop(char s[])$/;"	f
+getop	/home/john/Documents/CCode/KRProblems/kr4-7.c	/^int getop(char s[])$/;"	f
+getop	/home/john/Documents/CCode/KRProblems/kr4-8.c	/^int getop(char s[])$/;"	f
+getop	/home/john/Documents/CCode/KRProblems/kr4-9.c	/^int getop(char s[])$/;"	f
+getvar	/home/john/Documents/CCode/KRProblems/kr4-6.c	/^double getvar(char variable)$/;"	f
+getvar	/home/john/Documents/CCode/KRProblems/kr4-7.c	/^double getvar(char variable)$/;"	f
+getvar	/home/john/Documents/CCode/KRProblems/kr4-8.c	/^double getvar(char variable)$/;"	f
+getvar	/home/john/Documents/CCode/KRProblems/kr4-9.c	/^double getvar(char variable)$/;"	f
+head	/home/john/Documents/CCode/Queue.h	/^	Node* head;$/;"	m	struct:queue
+initQueue	/home/john/Documents/CCode/Queue.h	/^Queue* initQueue()$/;"	f
+initStack	/home/john/Documents/CCode/Stack.h	/^Stack* initStack()$/;"	f
+isassigned	/home/john/Documents/CCode/KRProblems/kr4-6.c	/^int isassigned(char variable)$/;"	f
+isassigned	/home/john/Documents/CCode/KRProblems/kr4-7.c	/^int isassigned(char variable)$/;"	f
+isassigned	/home/john/Documents/CCode/KRProblems/kr4-8.c	/^int isassigned(char variable)$/;"	f
+isassigned	/home/john/Documents/CCode/KRProblems/kr4-9.c	/^int isassigned(char variable)$/;"	f
+itoa	/home/john/Documents/CCode/KRProblems/kr3-4.c	/^void itoa(int n, char s[])$/;"	f
+itoa	/home/john/Documents/CCode/KRProblems/kr3-6.c	/^void itoa(int n, char s[], int width)$/;"	f
+itob	/home/john/Documents/CCode/KRProblems/kr3-5.c	/^void itob(int n, char s[], int b)$/;"	f
+main	/home/john/Documents/CCode/KRProblems/kr3-3.c	/^int main(int argc, char** argv)$/;"	f
+main	/home/john/Documents/CCode/KRProblems/kr3-4.c	/^int main(int argc, char **argv)$/;"	f
+main	/home/john/Documents/CCode/KRProblems/kr3-5.c	/^int main(int argc, char **argv)$/;"	f
+main	/home/john/Documents/CCode/KRProblems/kr3-6.c	/^int main(int argc, char **argv)$/;"	f
+main	/home/john/Documents/CCode/KRProblems/kr4-3.c	/^main()$/;"	f
+main	/home/john/Documents/CCode/KRProblems/kr4-4.c	/^main()$/;"	f
+main	/home/john/Documents/CCode/KRProblems/kr4-5.c	/^main()$/;"	f
+main	/home/john/Documents/CCode/KRProblems/kr4-6.c	/^main()$/;"	f
+main	/home/john/Documents/CCode/KRProblems/kr4-7.c	/^main()$/;"	f
+main	/home/john/Documents/CCode/KRProblems/kr4-8.c	/^main()$/;"	f
+main	/home/john/Documents/CCode/KRProblems/kr4-9.c	/^main()$/;"	f
+makeNode	/home/john/Documents/CCode/LinkedList.h	/^Node* makeNode(int n)$/;"	f
+myatof	/home/john/Documents/CCode/KRProblems/kr4-2.c	/^double myatof(char s[])$/;"	f
+next	/home/john/Documents/CCode/LinkedList.h	/^	struct node *next;$/;"	m	struct:node	typeref:struct:node::node
+next	/home/john/Documents/CCode/Queue.h	/^	struct node *next;$/;"	m	struct:node	typeref:struct:node::node
+next	/home/john/Documents/CCode/Stack.h	/^	struct node *next;$/;"	m	struct:node	typeref:struct:node::node
+node	/home/john/Documents/CCode/LinkedList.h	/^typedef struct node{$/;"	s
+node	/home/john/Documents/CCode/Queue.h	/^typedef struct node$/;"	s
+node	/home/john/Documents/CCode/Stack.h	/^typedef struct node$/;"	s
+peek	/home/john/Documents/CCode/KRProblems/kr4-4.c	/^double peek(void)$/;"	f
+peek	/home/john/Documents/CCode/KRProblems/kr4-5.c	/^double peek(void)$/;"	f
+peek	/home/john/Documents/CCode/KRProblems/kr4-6.c	/^double peek(void)$/;"	f
+peek	/home/john/Documents/CCode/KRProblems/kr4-7.c	/^double peek(void)$/;"	f
+peek	/home/john/Documents/CCode/KRProblems/kr4-8.c	/^double peek(void)$/;"	f
+peek	/home/john/Documents/CCode/KRProblems/kr4-9.c	/^double peek(void)$/;"	f
+peek	/home/john/Documents/CCode/Stack.h	/^StackData peek(Stack* S)$/;"	f
+pop	/home/john/Documents/CCode/KRProblems/kr4-3.c	/^double pop(void)$/;"	f
+pop	/home/john/Documents/CCode/KRProblems/kr4-4.c	/^double pop(void)$/;"	f
+pop	/home/john/Documents/CCode/KRProblems/kr4-5.c	/^double pop(void)$/;"	f
+pop	/home/john/Documents/CCode/KRProblems/kr4-6.c	/^double pop(void)$/;"	f
+pop	/home/john/Documents/CCode/KRProblems/kr4-7.c	/^double pop(void)$/;"	f
+pop	/home/john/Documents/CCode/KRProblems/kr4-8.c	/^double pop(void)$/;"	f
+pop	/home/john/Documents/CCode/KRProblems/kr4-9.c	/^double pop(void)$/;"	f
+pop	/home/john/Documents/CCode/Stack.h	/^StackData pop(Stack* S)$/;"	f
+power	/home/john/Documents/CCode/KRProblems/kr3-5.c	/^int power(int base, int exp)$/;"	f
+push	/home/john/Documents/CCode/KRProblems/kr4-3.c	/^void push(double f)$/;"	f
+push	/home/john/Documents/CCode/KRProblems/kr4-4.c	/^void push(double f)$/;"	f
+push	/home/john/Documents/CCode/KRProblems/kr4-5.c	/^void push(double f)$/;"	f
+push	/home/john/Documents/CCode/KRProblems/kr4-6.c	/^void push(double f)$/;"	f
+push	/home/john/Documents/CCode/KRProblems/kr4-7.c	/^void push(double f)$/;"	f
+push	/home/john/Documents/CCode/KRProblems/kr4-8.c	/^void push(double f)$/;"	f
+push	/home/john/Documents/CCode/KRProblems/kr4-9.c	/^void push(double f)$/;"	f
+push	/home/john/Documents/CCode/Stack.h	/^void push(Stack* S, StackData n)$/;"	f
+queue	/home/john/Documents/CCode/Queue.h	/^typedef struct queue$/;"	s
+reverse	/home/john/Documents/CCode/StringReverse.h	/^void reverse(char s[])$/;"	f
+sp	/home/john/Documents/CCode/KRProblems/kr4-3.c	/^int sp = 0;$/;"	v
+sp	/home/john/Documents/CCode/KRProblems/kr4-4.c	/^int sp = 0;$/;"	v
+sp	/home/john/Documents/CCode/KRProblems/kr4-5.c	/^int sp = 0;$/;"	v
+sp	/home/john/Documents/CCode/KRProblems/kr4-6.c	/^int sp = 0;$/;"	v
+sp	/home/john/Documents/CCode/KRProblems/kr4-7.c	/^int sp = 0;$/;"	v
+sp	/home/john/Documents/CCode/KRProblems/kr4-8.c	/^int sp = 0;$/;"	v
+sp	/home/john/Documents/CCode/KRProblems/kr4-9.c	/^int sp = 0;$/;"	v
+stack	/home/john/Documents/CCode/Stack.h	/^typedef struct stack$/;"	s
+strrindex	/home/john/Documents/CCode/KRProblems/kr4-1.c	/^int strrindex(char s[], char t[])$/;"	f
+swap	/home/john/Documents/CCode/KRProblems/kr4-4.c	/^void swap(void)$/;"	f
+swap	/home/john/Documents/CCode/KRProblems/kr4-5.c	/^void swap(void)$/;"	f
+swap	/home/john/Documents/CCode/KRProblems/kr4-6.c	/^void swap(void)$/;"	f
+swap	/home/john/Documents/CCode/KRProblems/kr4-7.c	/^void swap(void)$/;"	f
+swap	/home/john/Documents/CCode/KRProblems/kr4-8.c	/^void swap(void)$/;"	f
+swap	/home/john/Documents/CCode/KRProblems/kr4-9.c	/^void swap(void)$/;"	f
+tail	/home/john/Documents/CCode/Queue.h	/^	Node* tail;$/;"	m	struct:queue
+top	/home/john/Documents/CCode/Stack.h	/^	Node* top;$/;"	m	struct:stack
+ungetch	/home/john/Documents/CCode/KRProblems/kr4-3.c	/^void ungetch(int c)$/;"	f
+ungetch	/home/john/Documents/CCode/KRProblems/kr4-4.c	/^void ungetch(int c)$/;"	f
+ungetch	/home/john/Documents/CCode/KRProblems/kr4-5.c	/^void ungetch(int c)$/;"	f
+ungetch	/home/john/Documents/CCode/KRProblems/kr4-6.c	/^void ungetch(int c)$/;"	f
+ungetch	/home/john/Documents/CCode/KRProblems/kr4-7.c	/^void ungetch(int c)$/;"	f
+ungetch	/home/john/Documents/CCode/KRProblems/kr4-8.c	/^void ungetch(int c)$/;"	f
+ungetch	/home/john/Documents/CCode/KRProblems/kr4-9.c	/^void ungetch(int c)$/;"	f
+ungets	/home/john/Documents/CCode/KRProblems/kr4-7.c	/^void ungets(char s[])$/;"	f
+val	/home/john/Documents/CCode/KRProblems/kr4-3.c	/^double val[MAXVAL];$/;"	v
+val	/home/john/Documents/CCode/KRProblems/kr4-4.c	/^double val[MAXVAL];$/;"	v
+val	/home/john/Documents/CCode/KRProblems/kr4-5.c	/^double val[MAXVAL];$/;"	v
+val	/home/john/Documents/CCode/KRProblems/kr4-6.c	/^double val[MAXVAL];$/;"	v
+val	/home/john/Documents/CCode/KRProblems/kr4-7.c	/^double val[MAXVAL];$/;"	v
+val	/home/john/Documents/CCode/KRProblems/kr4-8.c	/^double val[MAXVAL];$/;"	v
+val	/home/john/Documents/CCode/KRProblems/kr4-9.c	/^double val[MAXVAL];$/;"	v
+variables	/home/john/Documents/CCode/KRProblems/kr4-6.c	/^double variables[26];$/;"	v
+variables	/home/john/Documents/CCode/KRProblems/kr4-7.c	/^double variables[26];$/;"	v
+variables	/home/john/Documents/CCode/KRProblems/kr4-8.c	/^double variables[26];$/;"	v
+variables	/home/john/Documents/CCode/KRProblems/kr4-9.c	/^double variables[26];$/;"	v

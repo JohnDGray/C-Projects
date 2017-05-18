@@ -1,3 +1,4 @@
+#include <string.h>
 typedef struct
 {
 	char ch;
